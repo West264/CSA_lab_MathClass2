@@ -41,6 +41,7 @@ public class MathPractice2 {
         } else{
             return "Tails";
         }
+        
     
     }
 
